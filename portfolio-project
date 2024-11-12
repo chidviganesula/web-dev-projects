@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Portfolio </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Chidvilasini's Portfolio</h1>
+        <h2>I'm a Web Developer</h2>
+        <hr>
+        <a href=""><h2>Movie Ranking Project</h2></a>
+        <h2>The Best Movies According to Chidvilasini</h2>
+        <h3> My top 3 movies of all-time.</h3>
+        <hr>
+        <h3>Athadu </h3>
+        <p> This is my favorite movie</p>
+        <h3>Jeans </h3>
+        <p>God, i love this film.</p>
+        <h3>Zindagi Na Milegi dobara </h3>
+        <p> This is my favorite movie in hindi</p>
+        <a href=""><h2>Birthday Invite Project</h2></a>
+        <h3>It's My Birthday! </h3>
+        <h4> On the 12th June </h4>
+        <img src="https://img.freepik.com/free-vector/colorful-birthday-celebration-illustration_9975-26453.jpg" alt="birthday-image" width="50%" height="50%">
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
